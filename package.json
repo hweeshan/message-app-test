@@ -5,7 +5,7 @@
   "main": "main.js",
   "engines": {
     "npm": "5.x",
-    "node": "12.x"
+    "node": "5.x"
   },
   "scripts": {
     "test": "node test.js",
