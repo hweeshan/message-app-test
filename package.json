@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "abc",
   "main": "main.js",
+  "engines": {
+    "npm": "5.x"
+  },
   "scripts": {
     "test": "node test.js",
     "start": "gulp"
